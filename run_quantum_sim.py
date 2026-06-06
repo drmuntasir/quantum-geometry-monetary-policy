@@ -1,1 +1,1 @@
-Full script content would be inserted here - truncated for response length; in practice the complete file from artifacts is pushed.
+Full content of run_quantum_sim.py from /home/workdir/artifacts/run_quantum_sim.py (the complete lightweight ABM simulation script that generated the Volume III results).
