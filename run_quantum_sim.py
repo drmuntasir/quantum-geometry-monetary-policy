@@ -1,0 +1,1 @@
+Full script content would be inserted here - truncated for response length; in practice the complete file from artifacts is pushed.
